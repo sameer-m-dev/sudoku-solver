@@ -1,5 +1,5 @@
 # sudoku-solver
-Python program to solve any Sudoku puzzle automatically
+Python program to solve any Sudoku puzzle automatically. The program makes use of various AI techniques to solve any given sudoku quickly and effeciently
 
 It has 6 functions, namely:
 # 1) display
